@@ -1,0 +1,234 @@
+# Translation of Plugins - Heartbeat Control - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Heartbeat Control - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-05 11:00:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Heartbeat Control - Stable (latest release)\n"
+
+#: Settings.php:188
+msgid "Override Heartbeat frequency"
+msgstr "Cambia la frecuencia de Heartbeat"
+
+#: Settings.php:167
+msgid "Your changes have been saved successfully!"
+msgstr "¡Tus cambios se han guardado correctamente!"
+
+#: Settings.php:126
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#. translators: %1$s: line break, %2$s %3$s: bold markup.
+#: Settings.php:71
+msgid "%2$sReduces image file sizes%3$s without losing quality.%1$sBy compressing your images you speed up your website and boost your SEO."
+msgstr "%2$sReduce los tamaños de los archivos de imagen%3$s sin perder calidad. %1$sComprimiendo tus imágenes aceleras tu web y mejoras tu SEO."
+
+#. translators: %1$s %2$s: link markup.
+#: Settings.php:51
+msgid "Integrate more than 80&#x25; of web performance good practices automatically to %1$sreduce your website's loading time.%2$s"
+msgstr "Integra automáticamente más del 80&#x25; de las buenas prácticas de rendimiento web para %1$sreducir los tiempos de carga de tu web.%2$s"
+
+#: views/admin-page.php:216
+msgid "Check out our other plugins: we built them all to give a boost to the performance of your website!"
+msgstr "¡Echa un vistazo a nuestros otros plugins: los hemos creado para mejorar el rendimiento de tu web!"
+
+#: views/admin-page.php:215
+msgid "We develop plugins that make the web a better place - faster, lighter, and easier to use."
+msgstr "Desarrollamos plugins que hacen la web un lugar mejor - más rápido, más ligero, y más fácil de usar."
+
+#: views/admin-page.php:214
+msgid "Founded in 2014 in beautiful Lyon (France), WP Media is now a distributed company of more than 20 WordPress lovers living in the four corners of the world."
+msgstr "Fundada en 2014, en la hermosa Lyon (Francia), WP media ahora es una empresa distribuida con más de 20 amantes de WordPress que viven en las cuatro esquinas del planeta."
+
+#: views/admin-page.php:213
+msgid "Welcome to WP Media!"
+msgstr "¡Bienvenido a WP Media!"
+
+#. translators: %1$s %2$s: bold markup.
+#: views/admin-page.php:187
+msgid "Forget complicated settings and headaches, and %1$senjoy the fastest speed results%2$s your site has ever had!"
+msgstr "¡Olvídate de complicados ajustes y dolores de cabeza, y %1$sdisfruta de los más rápidos resultados de velocidad%2$s que jamás haya tenido tu sitio!"
+
+#. translators: %1$s %2$s: bold markup.
+#: views/admin-page.php:153
+msgid "Improve %1$sconversions and revenue%2$s thanks to a stunning web performance"
+msgstr "Mejora las %1$sconversiones e ingresos%2$s gracias a un rendimiento web sorprendente"
+
+#. translators: %1$s %2$s: bold markup.
+#: views/admin-page.php:138
+msgid "%1$sBoost your SEO%2$s by preloading your pages and make them faster for Google's bots"
+msgstr "%1$sMejora tu SEO%2$s precargando tus páginas y haciéndolas más rápidas para los bots de Google"
+
+#. translators: %1$s %2$s: bold markup.
+#: views/admin-page.php:123
+msgid "Help improve your %1$sGoogle PageSpeed%2$s score"
+msgstr "Ayuda a mejorar tu puntuación en %1$sGoogle PageSpeed%2$s"
+
+#. translators: %1$s %2$s: bold markup.
+#: views/admin-page.php:108
+msgid "Automatically apply more than %1$s80&#x25;%2$s of web performance best practices"
+msgstr "Aplica automáticamente más del %1$s80&#x25;%2$s de las buenas prácticas de rendimiento web"
+
+#. translators: %1$s %2$s: bold markup.
+#: views/admin-page.php:94
+msgid "Recognized as the %1$smost powerful caching plugin%2$s by WordPress experts"
+msgstr "Reconocido com oel %1$smás potente plugin de caché%2$s por expertos en WordPress"
+
+#: views/admin-page.php:80 views/admin-page.php:200 Settings.php:59
+msgid "Get WP Rocket"
+msgstr "Consigue WP Rocket"
+
+#: views/admin-page.php:76 views/admin-page.php:196
+msgid "Activate Now"
+msgstr "Activar ahora"
+
+#. translators: %1$s: line break, %2$s %3$s: bold markup.
+#: views/admin-page.php:66
+msgid "Looking for more optimization?%1$sThen you should use %2$sWP Rocket%3$s, and your site will be cached and optimized without you lifting a finger!"
+msgstr "¿Buscas más optimización? %1$sEntonces deberías usar %2$sWP Rocket%3$s, y ¡tu sitio estará cacheado y optimizado sin que tengas que levantar un dedo!"
+
+#: views/admin-page.php:50
+msgid "About us"
+msgstr "Sobre nosotros"
+
+#: views/admin-page.php:48
+msgid "More optimization"
+msgstr "Más optimización"
+
+#: views/admin-page.php:46
+msgid "General settings"
+msgstr "Ajustes generales"
+
+#. translators: %1$s %2$s: link markup.
+#: views/admin-page.php:27
+msgid "Please, take a few seconds to %1$srate it on WordPress.org%2$s"
+msgstr "Por favor, tómate unos segundos para %1$svalorarlo en WordPress.org%2$s"
+
+#: views/admin-page.php:22
+msgid "Do you like this plugin ?"
+msgstr "¿Te gusta este plugin?"
+
+#. translators: %1$s: status (not installed, installed or activated).
+#: Plugin_Card_Helper.php:625
+msgid "Status : %1$s"
+msgstr "Estado: %1$s"
+
+#. translators: %1$s: plugin title.
+#: Plugin_Card_Helper.php:521
+msgid "%1$s has been successfully activated."
+msgstr "%1$s se ha activado correctamente."
+
+#. translators: %1$s: plugin title.
+#: Plugin_Card_Helper.php:485
+msgid "%1$s has been successfully installed."
+msgstr "%1$s se ha instalado correctamente."
+
+#. translators: %1$s: plugin title.
+#: Plugin_Card_Helper.php:476
+msgid "%1$s has been successfully installed and activated."
+msgstr "%1$s se ha instalado y activado correctamente."
+
+#: Plugin_Card_Helper.php:287
+msgid "Install plugin"
+msgstr "Instalar plugin"
+
+#: Plugin_Card_Helper.php:286
+msgid "Activate plugin"
+msgstr "Activar plugin"
+
+#: Plugin_Card_Helper.php:285
+msgid "Already activated"
+msgstr "Ya activado"
+
+#: Plugin_Card_Helper.php:268
+msgid "not installed"
+msgstr "no está instalado"
+
+#: Plugin_Card_Helper.php:267
+msgid "installed"
+msgstr "instalado"
+
+#: Plugin_Card_Helper.php:266
+msgid "activated"
+msgstr "activado"
+
+#: Imagify_Partner.php:535
+msgid "Go back"
+msgstr "Volver"
+
+#: Imagify_Partner.php:534
+msgid "Plugin install failed."
+msgstr "La instalación del plugin ha fallado."
+
+#: Imagify_Partner.php:533
+msgid "Sorry, you are not allowed to do that."
+msgstr "Lo siento, no tienes permisos para hacer eso."
+
+#: Imagify_Partner.php:532
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Lo siento, no tienes permisos para instalar plugins en este sitio."
+
+#: Imagify_Partner.php:531
+msgid "Plugin installed successfully."
+msgstr "Plugin instalado correctamente."
+
+#: heartbeat-control.php:173
+msgid "Heartbeat Control data have been migrated successfully!"
+msgstr "¡Los datos de Heartbeat Control se han migrado correctamente!"
+
+#. Plugin Name of the plugin
+msgid "Heartbeat Control by WP Rocket"
+msgstr "Heartbeat Control by WP Rocket"
+
+#. Author URI of the plugin
+msgid "https://wp-rocket.me"
+msgstr "https://wp-rocket.me"
+
+#. Author of the plugin
+msgid "WP Rocket"
+msgstr "WP Rocket"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/heartbeat-control/"
+msgstr "https://es.wordpress.org/plugins/heartbeat-control/"
+
+#. Description of the plugin
+msgid "Completely controls the WordPress heartbeat."
+msgstr "Controla completamente el heartbeat de WordPress."
+
+#: Settings.php:201
+msgid "Heartbeat Control"
+msgstr "Control de Heartbeat"
+
+#: Settings.php:181
+msgid "Allow Heartbeat"
+msgstr "Permitir Heartbeat"
+
+#: Settings.php:175
+msgid "Heartbeat Behavior"
+msgstr "Comportamiento de Heartbeat"
+
+#: Settings.php:182
+msgid "Disable Heartbeat"
+msgstr "Desactivar Heartbeat"
+
+#: Settings.php:183
+msgid "Modify Heartbeat"
+msgstr "Modificar Heartbeat"
+
+#: Settings.php:216
+msgid "WordPress Dashboard"
+msgstr "Escritorio de WordPress"
+
+#: Settings.php:229
+msgid "Frontend"
+msgstr "Portada"
+
+#: Settings.php:242
+msgid "Post editor"
+msgstr "Editor de entradas"

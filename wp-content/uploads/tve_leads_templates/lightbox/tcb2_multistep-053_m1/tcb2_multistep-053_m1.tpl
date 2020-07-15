@@ -1,0 +1,10 @@
+<div class="thrv_wrapper thrv_icon tcb-icon-display tve_evt_manager_listen tve_et_click tve_ea_thrive_leads_form_close" data-css="tve-u-15d9e95bd96" data-tcb-events="__TCB_EVENT_[{&quot;a&quot;:&quot;thrive_leads_form_close&quot;,&quot;t&quot;:&quot;click&quot;}]_TNEVE_BCT__" style="">
+<svg class="tcb-icon" viewBox="0 0 30 32" data-name="close">
+<path d="M0.655 2.801l1.257-1.257 27.655 27.655-1.257 1.257-27.655-27.655z"></path>
+<path d="M28.31 1.543l1.257 1.257-27.655 27.655-1.257-1.257 27.655-27.655z"></path>
+</svg>
+</div><div class="thrv_wrapper thrv-columns" style="" data-css="tve-u-15e1486153f"><div class="tcb-flex-row tcb--cols--2" data-css="tve-u-15e148618cc"><div class="tcb-flex-col c-33"><div class="tcb-col tve_empty_dropzone" style="" data-css="tve-u-15e14868a00"><div class="tcb-clear" data-css="tve-u-15e148720b2"><div class="thrv_wrapper tve_image_caption tcb-mobile-hidden" data-css="tve-u-15e14871242" style=""><span class="tve_image_frame"><img class="tve_image wp-image-2445" alt="" width="270" height="425" title="set_53_image" data-id="2445" src="{tve_leads_base_url}/images/set_53_image.png"></span></div></div></div></div><div class="tcb-flex-col c-66"><div class="tcb-col tve_empty_dropzone" style="" data-css="tve-u-15e14879240"><div class="thrv_wrapper thrv_text_element tve_empty_dropzone" style="" data-css="tve-u-15e148813b6"><p data-css="tve-u-15e14841c21">Build <span data-css="tve-u-15e1487f311" style="color: rgb(0, 153, 153);">GREAT Looking</span> Landing Pages in Less Than 10 Minutes</p></div><div class="thrv_wrapper thrv_text_element tve_empty_dropzone" style="" data-css="tve-u-15e14882249"><p data-css="tve-u-15e1484ba0b">Learn how to build an effective landing page using my personal hand-picked selection of tools</p></div><div class="thrv_wrapper thrv-button tve_ea_tl_state_switch" data-css="tve-u-15e148551e3" style="">
+<a href="" class="tcb-button-link tve_evt_manager_listen tve_et_click" data-tcb-events="|open_state_2|">
+<span class="tcb-button-texts"><span class="tcb-button-text thrv-inline-text" data-css="tve-u-1601b2cd44e">Yes, I Want This FREE Download</span></span>
+</a>
+</div></div></div></div></div>

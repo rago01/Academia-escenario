@@ -1,0 +1,495 @@
+0000.000 (0) Opened log file at time: Fri, 01 May 2020 19:55:35 +0000 on https://academiaelescenario.com
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.4.1 PHP: 7.2.30 (litespeed, Linux siriusa.fastsecureserver.cloud 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) MySQL: 5.7.29-cll-lve WPLANG: es_ES Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 20.7M | 22M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.055 (0) Free space on disk containing Updraft's temporary directory: 451296 MB
+0000.057 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.060 (0) Semaphore (fd, wp_options) being initialised
+0000.062 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.063 (0) Set semaphore last lock (fd) time to 2020-05-01 19:55:35
+0000.064 (0) Semaphore lock (fd) complete
+0000.066 (0) Backup run: resumption=0, nonce=4a34f2af4f0c, file_nonce=4a34f2af4f0c begun at=1588362935 (0s ago), job type=backup
+0000.067 (0) Scheduling a resumption (1) after 300 seconds (1588363235) in case this run gets aborted
+0000.087 (0) Checking if we have a zip executable available
+0000.087 (0) Testing: /usr/bin/zip
+0000.095 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.096 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.097 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.097 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.098 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.104 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.105 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.106 (0) Working binary zip found: /usr/bin/zip
+0000.107 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.108 (0) Creation of backups of directories: beginning
+0000.110 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.569 (0) Total entities for the zip file: 749 directories, 4913 files (0 skipped as non-modified), 67 MB
+0000.587 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.602 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.618 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.634 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.649 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.651 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.4 MB, 4913 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.171 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: size is now: 2.10 MB
+0001.184 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 600 files added (on-disk size: 2140 KB)
+0001.194 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 700 files added (on-disk size: 2140 KB)
+0001.205 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 800 files added (on-disk size: 2140 KB)
+0001.215 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 900 files added (on-disk size: 2140 KB)
+0001.226 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 1000 files added (on-disk size: 2140 KB)
+0001.227 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (19.2 MB, 4913 files batched, 501 (1002) added so far); re-opening (prior size: 2140 KB)
+0004.583 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: size is now: 7.30 MB
+0004.606 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 1100 files added (on-disk size: 7440.1 KB)
+0004.626 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 1200 files added (on-disk size: 7440.1 KB)
+0004.639 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 1300 files added (on-disk size: 7440.1 KB)
+0004.652 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 1400 files added (on-disk size: 7440.1 KB)
+0004.665 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 1500 files added (on-disk size: 7440.1 KB)
+0004.667 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.9 MB, 4913 files batched, 501 (1503) added so far); re-opening (prior size: 7440.1 KB)
+0006.209 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 1600 files added (on-disk size: 8461.3 KB)
+0006.219 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 1700 files added (on-disk size: 8461.3 KB)
+0006.229 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 1800 files added (on-disk size: 8461.3 KB)
+0006.238 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 1900 files added (on-disk size: 8461.3 KB)
+0006.248 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 2000 files added (on-disk size: 8461.3 KB)
+0006.249 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.8 MB, 4913 files batched, 501 (2004) added so far); re-opening (prior size: 8461.3 KB)
+0009.210 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 2100 files added (on-disk size: 9433.7 KB)
+0009.225 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 2200 files added (on-disk size: 9433.7 KB)
+0009.240 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 2300 files added (on-disk size: 9433.7 KB)
+0009.254 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 2400 files added (on-disk size: 9433.7 KB)
+0009.269 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 2500 files added (on-disk size: 9433.7 KB)
+0009.271 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.5 MB, 4913 files batched, 501 (2505) added so far); re-opening (prior size: 9433.7 KB)
+0014.175 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: size is now: 16.10 MB
+0014.189 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 2600 files added (on-disk size: 16503.7 KB)
+0014.202 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 2700 files added (on-disk size: 16503.7 KB)
+0014.214 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 2800 files added (on-disk size: 16503.7 KB)
+0014.227 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 2900 files added (on-disk size: 16503.7 KB)
+0014.239 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 3000 files added (on-disk size: 16503.7 KB)
+0014.241 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.5 MB, 4913 files batched, 501 (3006) added so far); re-opening (prior size: 16503.7 KB)
+0019.064 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 3100 files added (on-disk size: 18162.2 KB)
+0019.077 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 3200 files added (on-disk size: 18162.2 KB)
+0019.090 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 3300 files added (on-disk size: 18162.2 KB)
+0019.102 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 3400 files added (on-disk size: 18162.2 KB)
+0019.115 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 3500 files added (on-disk size: 18162.2 KB)
+0019.117 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.8 MB, 4913 files batched, 501 (3507) added so far); re-opening (prior size: 18162.2 KB)
+0028.214 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: size is now: 23.20 MB
+0028.232 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 3600 files added (on-disk size: 23735 KB)
+0028.247 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 3700 files added (on-disk size: 23735 KB)
+0028.262 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 3800 files added (on-disk size: 23735 KB)
+0028.278 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 3900 files added (on-disk size: 23735 KB)
+0028.293 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 4000 files added (on-disk size: 23735 KB)
+0028.295 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.8 MB, 4913 files batched, 501 (4008) added so far); re-opening (prior size: 23735 KB)
+0034.193 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 4100 files added (on-disk size: 25805.2 KB)
+0034.203 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 4200 files added (on-disk size: 25805.2 KB)
+0034.212 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 4300 files added (on-disk size: 25805.2 KB)
+0034.221 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 4400 files added (on-disk size: 25805.2 KB)
+0034.261 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 4500 files added (on-disk size: 25805.2 KB)
+0034.262 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7 MB, 4913 files batched, 501 (4509) added so far); re-opening (prior size: 25805.2 KB)
+0042.090 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 4600 files added (on-disk size: 28036 KB)
+0042.097 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 4700 files added (on-disk size: 28036 KB)
+0042.104 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 4800 files added (on-disk size: 28036 KB)
+0042.111 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip.tmp: 4900 files added (on-disk size: 28036 KB)
+0050.086 (0) Created plugins zip (0) - 28694.3 KB in 49.9 s (574.8 KB/s) (sha1: 485ce0ca3661be1f2e4b3288607c9fdfd70b782d, sha256: 7835574c5715c9bb3cf782272339ffe406ced482f49984a5dffde98111d62118)
+0050.088 (0) Beginning creation of dump of themes (split every: 400 MB)
+0050.332 (0) Total entities for the zip file: 199 directories, 1075 files (0 skipped as non-modified), 38.1 MB
+0050.346 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0050.359 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0050.372 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0050.385 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0050.398 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0050.399 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (21.1 MB, 1075 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0053.730 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip.tmp: size is now: 6.40 MB
+0053.741 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip.tmp: 600 files added (on-disk size: 6580 KB)
+0053.749 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip.tmp: 700 files added (on-disk size: 6580 KB)
+0053.758 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip.tmp: 800 files added (on-disk size: 6580 KB)
+0053.767 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip.tmp: 900 files added (on-disk size: 6580 KB)
+0053.776 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip.tmp: 1000 files added (on-disk size: 6580 KB)
+0053.777 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (16.3 MB, 1075 files batched, 501 (1002) added so far); re-opening (prior size: 6580 KB)
+0062.549 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip.tmp: size is now: 11.50 MB
+0066.848 (0) Created themes zip (0) - 11941.2 KB in 16.7 s (715.8 KB/s) (sha1: 3d2c2d29c1f75929483d15fd15689488b3180f14, sha256: 57466267dc632eb77a3ffbe0240e8e697396237627ac615a49f5d0304186a5dc)
+0066.852 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0066.854 (0) Looking for candidates to backup in: /home/rbkapopa/public_html/academiaelescenario.com/wp-content/uploads
+0066.855 (0) finding files: connection-test-image-uu2b0o.tmp: adding to list (1)
+0066.857 (0) finding files: .shortpixel-q-1: adding to list (2)
+0066.858 (0) finding files: et_temp: adding to list (3)
+0066.859 (0) finding files: tcb_lp_templates: adding to list (4)
+0066.860 (0) finding files: 2020: adding to list (5)
+0066.862 (0) finding files: 2018: adding to list (6)
+0066.863 (0) finding files: 2019: adding to list (7)
+0066.864 (0) finding files: tve_leads_templates: adding to list (8)
+0066.865 (0) finding files: ShortpixelBackups: adding to list (9)
+0066.866 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0067.398 (0) Total entities for the zip file: 266 directories, 1990 files (0 skipped as non-modified), 57 MB
+0067.415 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0067.431 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0067.447 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0067.464 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0067.480 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0067.481 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.8 MB, 1990 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0072.759 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: size is now: 15.70 MB
+0072.776 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 600 files added (on-disk size: 16109.7 KB)
+0072.790 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 700 files added (on-disk size: 16109.7 KB)
+0072.804 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 800 files added (on-disk size: 16109.7 KB)
+0072.818 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 900 files added (on-disk size: 16109.7 KB)
+0072.832 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 1000 files added (on-disk size: 16109.7 KB)
+0072.833 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.8 MB, 1990 files batched, 501 (1002) added so far); re-opening (prior size: 16109.7 KB)
+0082.741 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: size is now: 25.60 MB
+0082.759 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 1100 files added (on-disk size: 26259.1 KB)
+0082.774 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 1200 files added (on-disk size: 26259.1 KB)
+0082.789 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 1300 files added (on-disk size: 26259.1 KB)
+0082.805 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 1400 files added (on-disk size: 26259.1 KB)
+0082.820 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 1500 files added (on-disk size: 26259.1 KB)
+0082.822 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.3 MB, 1990 files batched, 501 (1503) added so far); re-opening (prior size: 26259.1 KB)
+0094.141 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: size is now: 35.70 MB
+0094.160 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 1600 files added (on-disk size: 36597.6 KB)
+0094.177 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 1700 files added (on-disk size: 36597.6 KB)
+0094.193 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 1800 files added (on-disk size: 36597.6 KB)
+0094.209 (0) Zip: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: 1900 files added (on-disk size: 36597.6 KB)
+0114.292 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip.tmp: size is now: 57.00 MB
+0115.203 (0) Created uploads zip (0) - 58337.1 KB in 48.2 s (1210 KB/s) (sha1: d16e03009c310c958c70fd15be07d77183bcddce, sha256: 03f57299f22c13194f2350deb95bdfbe3d56af75db00bb72273874136a0badba)
+0115.205 (0) Beginning backup of other directories found in the content directory (index: 0)
+0115.206 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0115.206 (0) Looking for candidates to backup in: /home/rbkapopa/public_html/academiaelescenario.com/wp-content
+0115.207 (0) finding files: et-cache: adding to list (1)
+0115.207 (0) finding files: litespeed: adding to list (2)
+0115.208 (0) finding files: languages: adding to list (3)
+0115.208 (0) finding files: advanced-cache.php: adding to list (4)
+0115.209 (0) finding files: index.php: adding to list (5)
+0115.209 (0) finding files: blogs.dir: adding to list (6)
+0115.210 (0) finding files: cache: skipping: excluded by options
+0115.210 (0) finding files: mu-plugins: adding to list (7)
+0115.211 (0) finding files: uploads: skipping: this is the uploads directory
+0115.211 (0) finding files: updraft: skipping: this is the updraft directory
+0115.212 (0) finding files: upgrade: skipping: excluded by options
+0115.212 (0) finding files: plugins: skipping: this is the plugins directory
+0115.213 (0) finding files: themes: skipping: this is the themes directory
+0115.273 (0) Total entities for the zip file: 10 directories, 66 files (0 skipped as non-modified), 10 MB
+0117.826 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-others.zip.tmp: size is now: 2.60 MB
+0117.861 (0) Created others zip (0) - 2655.7 KB in 2.6 s (1025.2 KB/s) (sha1: 9b8af9a701419b02d825e7ff112a29998bd9b3cf, sha256: 7ebfac2404a6ce7957b3d2b7686bcb81024a7abdeeb8dd51da5975acd98cf074)
+0117.864 (0) Saving backup status to database (elements: 8)
+0117.866 (0) Beginning creation of database dump (WordPress DB)
+0117.867 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0119.074 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1224 bytes total)
+0119.076 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0119.081 (0) Table wp_options: Total expected rows (approximate): 669
+0119.100 (0) Table wp_options: Total rows added: 665 in 0.02 seconds
+0119.101 (0) Table wp_options: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_options.table.gz - 67.1 KB)
+0119.104 (0) Table wp_users: Total expected rows (approximate): 1
+0119.105 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0119.106 (0) Table wp_users: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_users.table.gz - 0.6 KB)
+0119.108 (0) Table wp_usermeta: Total expected rows (approximate): 35
+0119.110 (0) Table wp_usermeta: Total rows added: 35 in 0.00 seconds
+0119.111 (0) Table wp_usermeta: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_usermeta.table.gz - 3.5 KB)
+0119.113 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0119.114 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0119.115 (0) Table wp_commentmeta: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0119.117 (0) Table wp_comments: Total expected rows (approximate): 0
+0119.119 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0119.119 (0) Table wp_comments: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_comments.table.gz - 0.5 KB)
+0119.122 (0) Table wp_links: Total expected rows (approximate): 7
+0119.124 (0) Table wp_links: Total rows added: 7 in 0.00 seconds
+0119.125 (0) Table wp_links: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_links.table.gz - 0.6 KB)
+0119.127 (0) Table wp_postmeta: Total expected rows (approximate): 1328
+0119.140 (0) Table wp_postmeta: Total rows added: 1328 in 0.01 seconds
+0119.141 (0) Table wp_postmeta: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_postmeta.table.gz - 32.5 KB)
+0119.144 (0) Table wp_posts: Total expected rows (approximate): 278
+0119.201 (0) Table wp_posts: Total rows added: 278 in 0.06 seconds
+0119.203 (0) Table wp_posts: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_posts.table.gz - 238.2 KB)
+0119.205 (0) Table wp_term_relationships: Total expected rows (approximate): 54
+0119.207 (0) Table wp_term_relationships: Total rows added: 54 in 0.00 seconds
+0119.207 (0) Table wp_term_relationships: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_term_relationships.table.gz - 0.5 KB)
+0119.210 (0) Table wp_term_taxonomy: Total expected rows (approximate): 18
+0119.211 (0) Table wp_term_taxonomy: Total rows added: 18 in 0.00 seconds
+0119.212 (0) Table wp_term_taxonomy: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_term_taxonomy.table.gz - 0.6 KB)
+0119.214 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0119.216 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0119.216 (0) Table wp_termmeta: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_termmeta.table.gz - 0.4 KB)
+0119.219 (0) Table wp_terms: Total expected rows (approximate): 18
+0119.220 (0) Table wp_terms: Total rows added: 18 in 0.00 seconds
+0119.221 (0) Table wp_terms: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_terms.table.gz - 0.7 KB)
+0119.223 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 88
+0119.225 (0) Table wp_yoast_seo_links: Total rows added: 88 in 0.00 seconds
+0119.226 (0) Table wp_yoast_seo_links: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_yoast_seo_links.table.gz - 1.1 KB)
+0119.228 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 376
+0119.230 (0) Table wp_yoast_seo_meta: Total rows added: 376 in 0.00 seconds
+0119.231 (0) Table wp_yoast_seo_meta: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_yoast_seo_meta.table.gz - 1.3 KB)
+0119.233 (0) Table wp_et_social_stats: Total expected rows (approximate): 1
+0119.235 (0) Table wp_et_social_stats: Total rows added: 1 in 0.00 seconds
+0119.235 (0) Table wp_et_social_stats: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_et_social_stats.table.gz - 0.5 KB)
+0119.238 (0) Table wp_litespeed_cssjs: Total expected rows (approximate): 29
+0119.240 (0) Table wp_litespeed_cssjs: Total rows added: 54 in 0.00 seconds
+0119.241 (0) Table wp_litespeed_cssjs: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_litespeed_cssjs.table.gz - 1.9 KB)
+0119.243 (0) Table wp_litespeed_img_optm: Total expected rows (approximate): 0
+0119.245 (0) Table wp_litespeed_img_optm: Total rows added: 0 in 0.00 seconds
+0119.245 (0) Table wp_litespeed_img_optm: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_litespeed_img_optm.table.gz - 0.4 KB)
+0119.247 (0) Table wp_mts_locker_stats: Total expected rows (approximate): 0
+0119.248 (0) Table wp_mts_locker_stats: Total rows added: 0 in 0.00 seconds
+0119.249 (0) Table wp_mts_locker_stats: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_mts_locker_stats.table.gz - 0.4 KB)
+0119.251 (0) Table wp_opanda_leads: Total expected rows (approximate): 0
+0119.253 (0) Table wp_opanda_leads: Total rows added: 0 in 0.00 seconds
+0119.253 (0) Table wp_opanda_leads: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_opanda_leads.table.gz - 0.4 KB)
+0119.256 (0) Table wp_opanda_leads_fields: Total expected rows (approximate): 0
+0119.257 (0) Table wp_opanda_leads_fields: Total rows added: 0 in 0.00 seconds
+0119.258 (0) Table wp_opanda_leads_fields: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_opanda_leads_fields.table.gz - 0.3 KB)
+0119.260 (0) Table wp_opanda_stats_v2: Total expected rows (approximate): 0
+0119.262 (0) Table wp_opanda_stats_v2: Total rows added: 0 in 0.00 seconds
+0119.262 (0) Table wp_opanda_stats_v2: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_opanda_stats_v2.table.gz - 0.4 KB)
+0119.265 (0) Table wp_tcb_api_error_log: Total expected rows (approximate): 0
+0119.266 (0) Table wp_tcb_api_error_log: Total rows added: 0 in 0.00 seconds
+0119.267 (0) Table wp_tcb_api_error_log: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tcb_api_error_log.table.gz - 0.3 KB)
+0119.269 (0) Table wp_tcm_email_hash: Total expected rows (approximate): 0
+0119.271 (0) Table wp_tcm_email_hash: Total rows added: 0 in 0.00 seconds
+0119.271 (0) Table wp_tcm_email_hash: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tcm_email_hash.table.gz - 0.3 KB)
+0119.274 (0) Table wp_tcm_logs: Total expected rows (approximate): 0
+0119.275 (0) Table wp_tcm_logs: Total rows added: 0 in 0.00 seconds
+0119.276 (0) Table wp_tcm_logs: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tcm_logs.table.gz - 0.3 KB)
+0119.279 (0) Table wp_tve_leads_contact_download: Total expected rows (approximate): 0
+0119.280 (0) Table wp_tve_leads_contact_download: Total rows added: 0 in 0.00 seconds
+0119.281 (0) Table wp_tve_leads_contact_download: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tve_leads_contact_download.table.gz - 0.3 KB)
+0119.283 (0) Table wp_tve_leads_contacts: Total expected rows (approximate): 0
+0119.284 (0) Table wp_tve_leads_contacts: Total rows added: 0 in 0.00 seconds
+0119.285 (0) Table wp_tve_leads_contacts: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tve_leads_contacts.table.gz - 0.3 KB)
+0119.287 (0) Table wp_tve_leads_event_log: Total expected rows (approximate): 18
+0119.289 (0) Table wp_tve_leads_event_log: Total rows added: 18 in 0.00 seconds
+0119.290 (0) Table wp_tve_leads_event_log: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tve_leads_event_log.table.gz - 0.7 KB)
+0119.293 (0) Table wp_tve_leads_form_variations: Total expected rows (approximate): 24
+0119.301 (0) Table wp_tve_leads_form_variations: Total rows added: 24 in 0.01 seconds
+0119.302 (0) Table wp_tve_leads_form_variations: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tve_leads_form_variations.table.gz - 26.8 KB)
+0119.304 (0) Table wp_tve_leads_group_options: Total expected rows (approximate): 5
+0119.306 (0) Table wp_tve_leads_group_options: Total rows added: 5 in 0.00 seconds
+0119.306 (0) Table wp_tve_leads_group_options: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tve_leads_group_options.table.gz - 0.5 KB)
+0119.309 (0) Table wp_tve_leads_saved_group_options: Total expected rows (approximate): 0
+0119.310 (0) Table wp_tve_leads_saved_group_options: Total rows added: 0 in 0.00 seconds
+0119.311 (0) Table wp_tve_leads_saved_group_options: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tve_leads_saved_group_options.table.gz - 0.3 KB)
+0119.313 (0) Table wp_tve_leads_split_test: Total expected rows (approximate): 0
+0119.314 (0) Table wp_tve_leads_split_test: Total rows added: 0 in 0.00 seconds
+0119.315 (0) Table wp_tve_leads_split_test: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tve_leads_split_test.table.gz - 0.4 KB)
+0119.317 (0) Table wp_tve_leads_split_test_items: Total expected rows (approximate): 0
+0119.319 (0) Table wp_tve_leads_split_test_items: Total rows added: 0 in 0.00 seconds
+0119.319 (0) Table wp_tve_leads_split_test_items: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tve_leads_split_test_items.table.gz - 0.4 KB)
+0119.322 (0) Table wp_wpjf3_mr_access_keys: Total expected rows (approximate): 0
+0119.324 (0) Table wp_wpjf3_mr_access_keys: Total rows added: 0 in 0.00 seconds
+0119.324 (0) Table wp_wpjf3_mr_access_keys: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_wpjf3_mr_access_keys.table.gz - 0.3 KB)
+0119.327 (0) Table wp_wpjf3_mr_unrestricted_ips: Total expected rows (approximate): 0
+0119.329 (0) Table wp_wpjf3_mr_unrestricted_ips: Total rows added: 0 in 0.00 seconds
+0119.329 (0) Table wp_wpjf3_mr_unrestricted_ips: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_wpjf3_mr_unrestricted_ips.table.gz - 0.3 KB)
+0119.332 (0) Table wp_yoast_indexable: Total expected rows (approximate): 10
+0119.338 (0) Table wp_yoast_indexable: Total rows added: 11 in 0.00 seconds
+0119.339 (0) Table wp_yoast_indexable: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_yoast_indexable.table.gz - 1.5 KB)
+0119.341 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 0
+0119.342 (0) Table wp_yoast_indexable_hierarchy: Total rows added: 0 in 0.00 seconds
+0119.343 (0) Table wp_yoast_indexable_hierarchy: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_yoast_indexable_hierarchy.table.gz - 0.3 KB)
+0119.345 (0) Table wp_yoast_migrations: Total expected rows (approximate): 11
+0119.347 (0) Table wp_yoast_migrations: Total rows added: 11 in 0.00 seconds
+0119.347 (0) Table wp_yoast_migrations: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_yoast_migrations.table.gz - 0.5 KB)
+0119.350 (0) Table wp_yoast_primary_term: Total expected rows (approximate): 0
+0119.351 (0) Table wp_yoast_primary_term: Total rows added: 0 in 0.00 seconds
+0119.352 (0) Table wp_yoast_primary_term: finishing file (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_yoast_primary_term.table.gz - 0.4 KB)
+0119.353 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_options.table.gz (1/38): adding to final database dump
+0119.366 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_users.table.gz (2/38): adding to final database dump
+0119.367 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_usermeta.table.gz (3/38): adding to final database dump
+0119.368 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_commentmeta.table.gz (4/38): adding to final database dump
+0119.369 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_comments.table.gz (5/38): adding to final database dump
+0119.369 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_links.table.gz (6/38): adding to final database dump
+0119.370 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_postmeta.table.gz (7/38): adding to final database dump
+0119.378 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_posts.table.gz (8/38): adding to final database dump
+0119.428 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_term_relationships.table.gz (9/38): adding to final database dump
+0119.428 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_term_taxonomy.table.gz (10/38): adding to final database dump
+0119.429 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_termmeta.table.gz (11/38): adding to final database dump
+0119.429 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_terms.table.gz (12/38): adding to final database dump
+0119.430 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_yoast_seo_links.table.gz (13/38): adding to final database dump
+0119.431 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_yoast_seo_meta.table.gz (14/38): adding to final database dump
+0119.432 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_et_social_stats.table.gz (15/38): adding to final database dump
+0119.433 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_litespeed_cssjs.table.gz (16/38): adding to final database dump
+0119.434 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_litespeed_img_optm.table.gz (17/38): adding to final database dump
+0119.434 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_mts_locker_stats.table.gz (18/38): adding to final database dump
+0119.435 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_opanda_leads.table.gz (19/38): adding to final database dump
+0119.436 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_opanda_leads_fields.table.gz (20/38): adding to final database dump
+0119.436 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_opanda_stats_v2.table.gz (21/38): adding to final database dump
+0119.437 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tcb_api_error_log.table.gz (22/38): adding to final database dump
+0119.437 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tcm_email_hash.table.gz (23/38): adding to final database dump
+0119.438 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tcm_logs.table.gz (24/38): adding to final database dump
+0119.438 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tve_leads_contact_download.table.gz (25/38): adding to final database dump
+0119.439 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tve_leads_contacts.table.gz (26/38): adding to final database dump
+0119.440 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tve_leads_event_log.table.gz (27/38): adding to final database dump
+0119.440 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tve_leads_form_variations.table.gz (28/38): adding to final database dump
+0119.446 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tve_leads_group_options.table.gz (29/38): adding to final database dump
+0119.447 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tve_leads_saved_group_options.table.gz (30/38): adding to final database dump
+0119.447 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tve_leads_split_test.table.gz (31/38): adding to final database dump
+0119.448 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_tve_leads_split_test_items.table.gz (32/38): adding to final database dump
+0119.448 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_wpjf3_mr_access_keys.table.gz (33/38): adding to final database dump
+0119.449 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_wpjf3_mr_unrestricted_ips.table.gz (34/38): adding to final database dump
+0119.450 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_yoast_indexable.table.gz (35/38): adding to final database dump
+0119.450 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_yoast_indexable_hierarchy.table.gz (36/38): adding to final database dump
+0119.452 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_yoast_migrations.table.gz (37/38): adding to final database dump
+0119.452 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db-table-wp_yoast_primary_term.table.gz (38/38): adding to final database dump
+0119.454 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db.gz: finished writing out complete database file (376 KB)
+0119.462 (0) Total database tables backed up: 38 (backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db.gz, size: 386275, sha1: 9904de4252c6980f17c4b3aaf24c159decc78d9b, sha256: 168bdae1e436017647851994055587844dbba303f06c6a5e9cf599bbaea47dac)
+0119.465 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0119.466 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0119.466 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0119.467 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-others.zip: others: This file has not yet been successfully uploaded: will queue
+0119.467 (0) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db.gz: db: This file has not yet been successfully uploaded: will queue
+0119.468 (0) Saving backup history. Total backup size: 99.6 MB
+0119.469 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0119.471 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0119.472 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-5dd2dfbf42adf4a492afbdb549e3c99a)
+0323.446 (1) Opened log file at time: Fri, 01 May 2020 20:00:58 +0000 on https://academiaelescenario.com
+0323.447 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.4.1 PHP: 7.2.30 (litespeed, Linux siriusa.fastsecureserver.cloud 3.10.0-962.3.2.lve1.5.26.9.el7.x86_64 #1 SMP Wed Nov 13 22:12:04 EST 2019 x86_64) MySQL: 5.7.29-cll-lve WPLANG: es_ES Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 17.3M | 18M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: N LANG:  ZipArchive::addFile: Y
+0323.505 (1) Free space on disk containing Updraft's temporary directory: 451186.9 MB
+0323.507 (1) Backup run: resumption=1, nonce=4a34f2af4f0c, file_nonce=4a34f2af4f0c begun at=1588362935 (323s ago), job type=backup, previous check-in=119.4s
+0323.508 (1) Scheduling a resumption (2) after 300 seconds (1588363558) in case this run gets aborted
+0323.510 (1) Checking if we have a zip executable available
+0323.511 (1) Zip engine: found/will use a binary zip: /usr/bin/zip
+0323.511 (1) Creation of backups of directories: already finished
+0323.512 (1) Saving backup status to database (elements: 8)
+0323.513 (1) Database dump (WordPress DB): Creation was completed already
+0323.516 (1) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0323.517 (1) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0323.518 (1) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0323.518 (1) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-others.zip: others: This file has not yet been successfully uploaded: will queue
+0323.519 (1) backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db.gz: db: This file has not yet been successfully uploaded: will queue
+0323.519 (1) Saving backup history. Total backup size: 99.6 MB
+0323.521 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+0323.521 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0323.522 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-5dd2dfbf42adf4a492afbdb549e3c99a)
+0324.020 (1) Google Drive: creating path: /UpdraftPlus
+0325.137 (1) Google Drive: quota usage: used=10434.4 MB, total=15360 MB, available=4925.6 MB
+0325.138 (1) Google Drive: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip: Attempting to upload to Google Drive (into folder id: 1pc9SK4q-iOG7RsXWNdUSXeBLsxmfOIdc)
+0325.881 (1) Googledrive chunked upload: 3.6 % uploaded (1048576)
+0326.065 (1) Googledrive chunked upload: 7.1 % uploaded (2097152)
+0326.242 (1) Googledrive chunked upload: 10.7 % uploaded (3145728)
+0326.469 (1) Googledrive chunked upload: 14.3 % uploaded (4194304)
+0326.673 (1) Googledrive chunked upload: 17.8 % uploaded (5242880)
+0326.885 (1) Googledrive chunked upload: 21.4 % uploaded (6291456)
+0327.082 (1) Googledrive chunked upload: 25 % uploaded (7340032)
+0327.335 (1) Googledrive chunked upload: 28.5 % uploaded (8388608)
+0327.549 (1) Googledrive chunked upload: 32.1 % uploaded (9437184)
+0327.769 (1) Googledrive chunked upload: 35.7 % uploaded (10485760)
+0327.980 (1) Googledrive chunked upload: 39.3 % uploaded (11534336)
+0328.184 (1) Googledrive chunked upload: 42.8 % uploaded (12582912)
+0328.388 (1) Googledrive chunked upload: 46.4 % uploaded (13631488)
+0328.634 (1) Googledrive chunked upload: 50 % uploaded (14680064)
+0328.847 (1) Googledrive chunked upload: 53.5 % uploaded (15728640)
+0329.041 (1) Googledrive chunked upload: 57.1 % uploaded (16777216)
+0329.227 (1) Googledrive chunked upload: 60.7 % uploaded (17825792)
+0329.476 (1) Googledrive chunked upload: 64.2 % uploaded (18874368)
+0329.648 (1) Googledrive chunked upload: 67.8 % uploaded (19922944)
+0329.862 (1) Googledrive chunked upload: 71.4 % uploaded (20971520)
+0330.089 (1) Googledrive chunked upload: 74.9 % uploaded (22020096)
+0330.279 (1) Googledrive chunked upload: 78.5 % uploaded (23068672)
+0330.486 (1) Googledrive chunked upload: 82.1 % uploaded (24117248)
+0330.686 (1) Googledrive chunked upload: 85.6 % uploaded (25165824)
+0330.915 (1) Googledrive chunked upload: 89.2 % uploaded (26214400)
+0331.125 (1) Googledrive chunked upload: 92.8 % uploaded (27262976)
+0331.369 (1) Googledrive chunked upload: 96.4 % uploaded (28311552)
+0331.598 (1) Googledrive chunked upload: 99.9 % uploaded (29360128)
+0333.806 (1) Googledrive chunked upload: 100 % uploaded (29360128)
+0333.809 (1) Google Drive: OK: Archive backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip uploaded in 8.67 seconds
+0333.809 (1) Recording as successfully uploaded: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip
+0333.820 (1) Deleting local file: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-plugins.zip: OK
+0334.088 (1) Google Drive: quota usage: used=10462.5 MB, total=15360 MB, available=4897.5 MB
+0334.089 (1) Google Drive: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip: Attempting to upload to Google Drive (into folder id: 1pc9SK4q-iOG7RsXWNdUSXeBLsxmfOIdc)
+0334.458 (1) Googledrive chunked upload: 8.6 % uploaded (1048576)
+0334.954 (1) Googledrive chunked upload: 17.2 % uploaded (2097152)
+0335.151 (1) Googledrive chunked upload: 25.7 % uploaded (3145728)
+0335.384 (1) Googledrive chunked upload: 34.3 % uploaded (4194304)
+0335.634 (1) Googledrive chunked upload: 42.9 % uploaded (5242880)
+0335.843 (1) Googledrive chunked upload: 51.5 % uploaded (6291456)
+0336.086 (1) Googledrive chunked upload: 60 % uploaded (7340032)
+0336.348 (1) Googledrive chunked upload: 68.6 % uploaded (8388608)
+0336.565 (1) Googledrive chunked upload: 77.2 % uploaded (9437184)
+0336.794 (1) Googledrive chunked upload: 85.8 % uploaded (10485760)
+0337.253 (1) Googledrive chunked upload: 94.3 % uploaded (11534336)
+0338.237 (1) Googledrive chunked upload: 100 % uploaded (11534336)
+0338.239 (1) Google Drive: OK: Archive backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip uploaded in 4.15 seconds
+0338.240 (1) Recording as successfully uploaded: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip
+0338.244 (1) Deleting local file: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-themes.zip: OK
+0338.546 (1) Google Drive: quota usage: used=10474.1 MB, total=15360 MB, available=4885.9 MB
+0338.547 (1) Google Drive: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip: Attempting to upload to Google Drive (into folder id: 1pc9SK4q-iOG7RsXWNdUSXeBLsxmfOIdc)
+0339.032 (1) Googledrive chunked upload: 1.8 % uploaded (1048576)
+0339.235 (1) Googledrive chunked upload: 3.5 % uploaded (2097152)
+0339.427 (1) Googledrive chunked upload: 5.3 % uploaded (3145728)
+0339.651 (1) Googledrive chunked upload: 7 % uploaded (4194304)
+0339.894 (1) Googledrive chunked upload: 8.8 % uploaded (5242880)
+0340.153 (1) Googledrive chunked upload: 10.5 % uploaded (6291456)
+0340.381 (1) Googledrive chunked upload: 12.3 % uploaded (7340032)
+0340.585 (1) Googledrive chunked upload: 14 % uploaded (8388608)
+0340.810 (1) Googledrive chunked upload: 15.8 % uploaded (9437184)
+0341.044 (1) Googledrive chunked upload: 17.6 % uploaded (10485760)
+0341.252 (1) Googledrive chunked upload: 19.3 % uploaded (11534336)
+0341.483 (1) Googledrive chunked upload: 21.1 % uploaded (12582912)
+0341.698 (1) Googledrive chunked upload: 22.8 % uploaded (13631488)
+0341.901 (1) Googledrive chunked upload: 24.6 % uploaded (14680064)
+0342.154 (1) Googledrive chunked upload: 26.3 % uploaded (15728640)
+0342.401 (1) Googledrive chunked upload: 28.1 % uploaded (16777216)
+0342.615 (1) Googledrive chunked upload: 29.8 % uploaded (17825792)
+0342.798 (1) Googledrive chunked upload: 31.6 % uploaded (18874368)
+0342.995 (1) Googledrive chunked upload: 33.4 % uploaded (19922944)
+0343.189 (1) Googledrive chunked upload: 35.1 % uploaded (20971520)
+0343.388 (1) Googledrive chunked upload: 36.9 % uploaded (22020096)
+0343.593 (1) Googledrive chunked upload: 38.6 % uploaded (23068672)
+0343.798 (1) Googledrive chunked upload: 40.4 % uploaded (24117248)
+0343.979 (1) Googledrive chunked upload: 42.1 % uploaded (25165824)
+0344.228 (1) Googledrive chunked upload: 43.9 % uploaded (26214400)
+0344.454 (1) Googledrive chunked upload: 45.6 % uploaded (27262976)
+0344.682 (1) Googledrive chunked upload: 47.4 % uploaded (28311552)
+0344.870 (1) Googledrive chunked upload: 49.1 % uploaded (29360128)
+0345.094 (1) Googledrive chunked upload: 50.9 % uploaded (30408704)
+0345.291 (1) Googledrive chunked upload: 52.7 % uploaded (31457280)
+0345.510 (1) Googledrive chunked upload: 54.4 % uploaded (32505856)
+0345.729 (1) Googledrive chunked upload: 56.2 % uploaded (33554432)
+0345.926 (1) Googledrive chunked upload: 57.9 % uploaded (34603008)
+0346.135 (1) Googledrive chunked upload: 59.7 % uploaded (35651584)
+0346.329 (1) Googledrive chunked upload: 61.4 % uploaded (36700160)
+0346.556 (1) Googledrive chunked upload: 63.2 % uploaded (37748736)
+0346.787 (1) Googledrive chunked upload: 64.9 % uploaded (38797312)
+0347.009 (1) Googledrive chunked upload: 66.7 % uploaded (39845888)
+0347.246 (1) Googledrive chunked upload: 68.5 % uploaded (40894464)
+0347.449 (1) Googledrive chunked upload: 70.2 % uploaded (41943040)
+0347.657 (1) Googledrive chunked upload: 72 % uploaded (42991616)
+0347.850 (1) Googledrive chunked upload: 73.7 % uploaded (44040192)
+0348.117 (1) Googledrive chunked upload: 75.5 % uploaded (45088768)
+0348.325 (1) Googledrive chunked upload: 77.2 % uploaded (46137344)
+0348.552 (1) Googledrive chunked upload: 79 % uploaded (47185920)
+0348.835 (1) Googledrive chunked upload: 80.7 % uploaded (48234496)
+0349.105 (1) Googledrive chunked upload: 82.5 % uploaded (49283072)
+0349.322 (1) Googledrive chunked upload: 84.3 % uploaded (50331648)
+0349.515 (1) Googledrive chunked upload: 86 % uploaded (51380224)
+0349.726 (1) Googledrive chunked upload: 87.8 % uploaded (52428800)
+0349.941 (1) Googledrive chunked upload: 89.5 % uploaded (53477376)
+0350.161 (1) Googledrive chunked upload: 91.3 % uploaded (54525952)
+0350.359 (1) Googledrive chunked upload: 93 % uploaded (55574528)
+0350.565 (1) Googledrive chunked upload: 94.8 % uploaded (56623104)
+0350.796 (1) Googledrive chunked upload: 96.5 % uploaded (57671680)
+0351.043 (1) Googledrive chunked upload: 98.3 % uploaded (58720256)
+0352.082 (1) Googledrive chunked upload: 100 % uploaded (58720256)
+0352.085 (1) Google Drive: OK: Archive backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip uploaded in 13.54 seconds
+0352.085 (1) Recording as successfully uploaded: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip
+0352.107 (1) Deleting local file: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-uploads.zip: OK
+0352.362 (1) Google Drive: quota usage: used=10474.1 MB, total=15360 MB, available=4885.9 MB
+0352.363 (1) Google Drive: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-others.zip: Attempting to upload to Google Drive (into folder id: 1pc9SK4q-iOG7RsXWNdUSXeBLsxmfOIdc)
+0352.823 (1) Googledrive chunked upload: 38.6 % uploaded (1048576)
+0353.026 (1) Googledrive chunked upload: 77.1 % uploaded (2097152)
+0355.233 (1) Googledrive chunked upload: 100 % uploaded (2097152)
+0355.236 (1) Google Drive: OK: Archive backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-others.zip uploaded in 2.87 seconds
+0355.236 (1) Recording as successfully uploaded: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-others.zip
+0355.238 (1) Deleting local file: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-others.zip: OK
+0355.476 (1) Google Drive: quota usage: used=10533.7 MB, total=15360 MB, available=4826.3 MB
+0355.477 (1) Google Drive: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db.gz: Attempting to upload to Google Drive (into folder id: 1pc9SK4q-iOG7RsXWNdUSXeBLsxmfOIdc)
+0358.082 (1) Googledrive chunked upload: 100 % uploaded
+0358.085 (1) Google Drive: OK: Archive backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db.gz uploaded in 2.61 seconds
+0358.086 (1) Recording as successfully uploaded: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db.gz
+0358.087 (1) Deleting local file: backup_2020-05-01-1955_Mi_blog_4a34f2af4f0c-db.gz: OK
+0358.089 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0358.090 (1) Number of backup sets in history: 1; groups (db): 1
+0358.091 (1) Examining (for databases) backup set with group_id=0, nonce=4a34f2af4f0c, datestamp=1588362935 (May 01 2020 19:55:35)
+0358.091 (1) This backup set is the backup set just made, so will not be deleted.
+0358.091 (1) Number of backup sets in history: 1; groups (files): 1
+0358.092 (1) Examining (for files) backup set with nonce=4a34f2af4f0c, datestamp=1588362935 (May 01 2020 19:55:35)
+0358.092 (1) This backup set is the backup set just made, so will not be deleted.
+0358.092 (1) This backup set is the backup set just made, so will not be deleted.
+0358.092 (1) This backup set is the backup set just made, so will not be deleted.
+0358.093 (1) This backup set is the backup set just made, so will not be deleted.
+0358.093 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0358.093 (1) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0358.095 (1) Resume backup (4a34f2af4f0c, 1): finish run
+0358.096 (1) There were no errors in the uploads, so the 'resume' event (2) is being unscheduled
+0358.098 (1) The backup apparently succeeded and is now complete
+0358.099 (1) No email will/can be sent - the user has not configured an email address.
+0358.099 (1) El respaldo parece haber tenido éxito y ahora está completado

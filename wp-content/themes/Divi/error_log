@@ -1,0 +1,4 @@
+[01-Jun-2020 14:49:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rbkapopa/public_html/academiaelescenario.com/wp-content/themes/Divi/functions.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/rbkapopa/public_html/academiaelescenario.com/wp-content/themes/Divi/functions.php on line 102

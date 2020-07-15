@@ -1,0 +1,1 @@
+{"version":"0.0.1","name":"Round image Sticky","V2":"1","states":{"1":{"tpl":"slide_in|tcb2_round-image-sticky_m1","state":"default"},"2":{"tpl":"slide_in|tcb2_round-image-sticky_m2","state":"default"},"3":{"tpl":"lightbox|tcb2_round-image-sticky_m3","state":"lightbox"}}}

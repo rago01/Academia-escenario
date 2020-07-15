@@ -1,0 +1,533 @@
+Easy WP SMTP debug log file
+
+CLIENT -> SERVER: EHLO academiaelescenario.com
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BhY2FkZW1pYWVsZXNjZW5hcmlvLmNvbQ==
+CLIENT -> SERVER: QDRjNGQzbTE0Kg==
+CLIENT -> SERVER: MAIL FROM:<info@academiaelescenario.com>
+CLIENT -> SERVER: RCPT TO:<info@academiaelescenario.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 1 May 2020 18:55:19 +0000
+CLIENT -> SERVER: To: info@academiaelescenario.com
+CLIENT -> SERVER: From: Academia El Escenario <info@academiaelescenario.com>
+CLIENT -> SERVER: Reply-To: "\"ragogarcia1@gmail.com\"" <ragogarcia1@gmail.com>
+CLIENT -> SERVER: Subject: Nuevo mensaje de Mi blog
+CLIENT -> SERVER: Message-ID: <86631afbf55139be8feb44959aba3843@academiaelescenario.com>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Bienvenidos
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO academiaelescenario.com
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BhY2FkZW1pYWVsZXNjZW5hcmlvLmNvbQ==
+CLIENT -> SERVER: QDRjNGQzbTE0Kg==
+CLIENT -> SERVER: MAIL FROM:<info@academiaelescenario.com>
+CLIENT -> SERVER: RCPT TO:<jsebastianmontesj@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 1 May 2020 22:49:53 +0000
+CLIENT -> SERVER: To: jsebastianmontesj@gmail.com
+CLIENT -> SERVER: From: Academia El Escenario <info@academiaelescenario.com>
+CLIENT -> SERVER: Reply-To: "\"ragogarcia1@gmail.com\"" <ragogarcia1@gmail.com>
+CLIENT -> SERVER: Subject: Nuevo mensaje de Mi blog
+CLIENT -> SERVER: Message-ID: <28ef13c3de2d161fa81e085c5ac3b798@academiaelescenario.com>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Nombre: Oscar
+CLIENT -> SERVER: Mensaje: okokookk
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO academiaelescenario.com
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BhY2FkZW1pYWVsZXNjZW5hcmlvLmNvbQ==
+CLIENT -> SERVER: QDRjNGQzbTE0Kg==
+CLIENT -> SERVER: MAIL FROM:<info@academiaelescenario.com>
+CLIENT -> SERVER: RCPT TO:<info@academiaelescenario.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Mon, 8 Jun 2020 19:58:58 +0000
+CLIENT -> SERVER: To: info@academiaelescenario.com
+CLIENT -> SERVER: From: Academia El Escenario <info@academiaelescenario.com>
+CLIENT -> SERVER: Reply-To: "\"eric@talkwithwebvisitor.com\"" <eric@talkwithwebvisitor.com>
+CLIENT -> SERVER: Subject: Nuevo mensaje de Mi blog
+CLIENT -> SERVER: Message-ID: <8a759294d6feabf9d54d94674f8359bf@academiaelescenario.com>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+CLIENT -> SERVER: 
+CLIENT -> SERVER: MENSAJE DE CONTACTO DESDE ACADEMIAELESCENARIO.COM
+CLIENT -> SERVER: 
+CLIENT -> SERVER: INFORMACIÓN.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Nombre : Eric Jones
+CLIENT -> SERVER: Telefono : 416-385-3200
+CLIENT -> SERVER: Correo : eric@talkwithwebvisitor.com
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Mensaje. 
+CLIENT -> SERVER: Hi, my name is Eric and I’m betting you’d like your website academiaelescenario.com to generate more leads.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Here’s how:
+CLIENT -> SERVER: Talk With Web Visitor is a software widget that’s works on your site, ready to capture any visitor’s Name, Email address and Phone Number.  It signals you as soon as they say they’re interested – so that you can talk to that lead while they’re still there at academiaelescenario.com.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Talk With Web Visitor – CLICK HERE http://www.talkwithwebvisitor.com for a live demo now.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: And now that you’ve got their phone number, our new SMS Text With Lead feature enables you to start a text (SMS) conversation – answer questions, provide more info, and close a deal that way.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: If they don’t take you up on your offer then, just follow up with text messages for new offers, content links, even just “how you doing?” notes to build a relationship.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: CLICK HERE http://www.talkwithwebvisitor.com to discover what Talk With Web Visitor can do for your business.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: The difference between contacting someone within 5 minutes versus a half-hour means you could be converting up to 100X more leads today!
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Try Talk With Web Visitor and get more leads now.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Eric
+CLIENT -> SERVER: PS: The studies show 7 out of 10 visitors don’t hang around – you can’t afford to lose them!
+CLIENT -> SERVER: Talk With Web Visitor offers a FREE 14 days trial – and it even includes International Long Distance Calling. 
+CLIENT -> SERVER: You have customers waiting to talk with you right now… don’t keep them waiting. 
+CLIENT -> SERVER: CLICK HERE http://www.talkwithwebvisitor.com to try Talk With Web Visitor now.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: If you'd like to unsubscribe click here http://talkwithwebvisitor.com/unsubscribe.aspx?d=academiaelescenario.com
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO academiaelescenario.com
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BhY2FkZW1pYWVsZXNjZW5hcmlvLmNvbQ==
+CLIENT -> SERVER: QDRjNGQzbTE0Kg==
+CLIENT -> SERVER: MAIL FROM:<info@academiaelescenario.com>
+CLIENT -> SERVER: RCPT TO:<info@acacademiaelescenario.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Sat, 11 Jul 2020 04:35:45 +0000
+CLIENT -> SERVER: To: info@acacademiaelescenario.com
+CLIENT -> SERVER: From: El Escenario <info@academiaelescenario.com>
+CLIENT -> SERVER: Reply-To: Sebastian Montes <jsebastianmontesj@gmail.com>
+CLIENT -> SERVER: Subject: [El Escenario] Nuevo pedido #(926)
+CLIENT -> SERVER: Message-ID: <80b34cae0f78bc8d54d9ab534d1a8053@academiaelescenario.com>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <!DOCTYPE html>
+CLIENT -> SERVER: <html lang="es" id="arve">
+CLIENT -> SERVER: <head>
+CLIENT -> SERVER: <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+CLIENT -> SERVER: <title>El Escenario</title>
+CLIENT -> SERVER: </head>
+CLIENT -> SERVER: <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="padding: 0;">
+CLIENT -> SERVER: 		<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+CLIENT -> SERVER: 			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <td align="center" valign="top">
+CLIENT -> SERVER: 						<div id="template_header_image">
+CLIENT -> SERVER: 													</div>
+CLIENT -> SERVER: 						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1); border-radius: 3px;">
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <td align="center" valign="top">
+CLIENT -> SERVER: 									<!-- Header -->
+CLIENT -> SERVER: 									<table border="0" cellpadding="0" cellspacing="0" width="100%" id="template_header" style='background-color: #96588a; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'><tr>
+CLIENT -> SERVER: <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+CLIENT -> SERVER: 												<h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; color: #ffffff;'>Nuevo pedido: #926</h1>
+CLIENT -> SERVER: 											</td>
+CLIENT -> SERVER: 										</tr></table>
+CLIENT -> SERVER: <!-- End Header -->
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 							</tr>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <td align="center" valign="top">
+CLIENT -> SERVER: 									<!-- Body -->
+CLIENT -> SERVER: 									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body"><tr>
+CLIENT -> SERVER: <td valign="top" id="body_content" style="background-color: #ffffff;">
+CLIENT -> SERVER: 												<!-- Content -->
+CLIENT -> SERVER: 												<table border="0" cellpadding="20" cellspacing="0" width="100%"><tr>
+CLIENT -> SERVER: <td valign="top" style="padding: 48px 48px 32px;">
+CLIENT -> SERVER: 															<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <p style="margin: 0 0 16px;">Has recibido el siguiente pedido de Sebastian Montes:</p>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>
+CLIENT -> SERVER: 	<a class="link" href="https://academiaelescenario.com/wp-admin/post.php?post=926&amp;action=edit" style="font-weight: normal; text-decoration: underline; color: #96588a;">[Pedido #926]</a> (julio 11, 2020)</h2>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="margin-bottom: 40px;">
+CLIENT -> SERVER: 	<table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+CLIENT -> SERVER: <thead><tr>
+CLIENT -> SERVER: <th class="td" scope="col" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Producto</th>
+CLIENT -> SERVER: 				<th class="td" scope="col" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Cantidad</th>
+CLIENT -> SERVER: 				<th class="td" scope="col" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Precio</th>
+CLIENT -> SERVER: 			</tr></thead>
+CLIENT -> SERVER: <tbody><tr class="order_item">
+CLIENT -> SERVER: <td class="td" style="color: #636363; border: 1px solid #e5e5e5; padding: 12px; text-align: left; vertical-align: middle; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; word-wrap: break-word;">
+CLIENT -> SERVER: 		Guitarra		</td>
+CLIENT -> SERVER: 		<td class="td" style="color: #636363; border: 1px solid #e5e5e5; padding: 12px; text-align: left; vertical-align: middle; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+CLIENT -> SERVER: 			2		</td>
+CLIENT -> SERVER: 		<td class="td" style="color: #636363; border: 1px solid #e5e5e5; padding: 12px; text-align: left; vertical-align: middle; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+CLIENT -> SERVER: 			<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>2.00</span>		</td>
+CLIENT -> SERVER: 	</tr></tbody>
+CLIENT -> SERVER: <tfoot>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <th class="td" scope="row" colspan="2" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left; border-top-width: 4px;">Subtotal:</th>
+CLIENT -> SERVER: 						<td class="td" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left; border-top-width: 4px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>2.00</span></td>
+CLIENT -> SERVER: 					</tr>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <th class="td" scope="row" colspan="2" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Envío:</th>
+CLIENT -> SERVER: 						<td class="td" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Envío gratuito</td>
+CLIENT -> SERVER: 					</tr>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <th class="td" scope="row" colspan="2" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Método de pago:</th>
+CLIENT -> SERVER: 						<td class="td" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Transferencia bancaria directa</td>
+CLIENT -> SERVER: 					</tr>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <th class="td" scope="row" colspan="2" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Total:</th>
+CLIENT -> SERVER: 						<td class="td" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>2.00</span></td>
+CLIENT -> SERVER: 					</tr>
+CLIENT -> SERVER: </tfoot>
+CLIENT -> SERVER: </table>
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <table id="addresses" cellspacing="0" cellpadding="0" border="0" style="width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;"><tr>
+CLIENT -> SERVER: <td valign="top" width="50%" style="text-align: left; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; border: 0; padding: 0;">
+CLIENT -> SERVER: 			<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Dirección de facturación</h2>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			<address class="address" style="padding: 12px; color: #636363; border: 1px solid #e5e5e5;">
+CLIENT -> SERVER: 				Sebastian Montes<br>Calle 94 # 4 a 58 sur<br>Bogotá<br>Usme									<br><a href="tel:3166160301" style="color: #96588a; font-weight: normal; text-decoration: underline;">3166160301</a>													<br>jsebastianmontesj@gmail.com							</address>
+CLIENT -> SERVER: 		</td>
+CLIENT -> SERVER: 					<td valign="top" width="50%" style="text-align: left; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; padding: 0;">
+CLIENT -> SERVER: 				<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Dirección de envío</h2>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<address class="address" style="padding: 12px; color: #636363; border: 1px solid #e5e5e5;">Sebastian Montes<br>Calle 94 # 4 a 58 sur<br>Bogotá<br>Usme</address>
+CLIENT -> SERVER: 			</td>
+CLIENT -> SERVER: 			</tr></table>
+CLIENT -> SERVER: <p style="margin: 0 0 16px;">Enhorabuena por la venta.</p>
+CLIENT -> SERVER: 															</div>
+CLIENT -> SERVER: 														</td>
+CLIENT -> SERVER: 													</tr></table>
+CLIENT -> SERVER: <!-- End Content -->
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 										</tr></table>
+CLIENT -> SERVER: <!-- End Body -->
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 							</tr>
+CLIENT -> SERVER: </table>
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 				</tr>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <td align="center" valign="top">
+CLIENT -> SERVER: 						<!-- Footer -->
+CLIENT -> SERVER: 						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer"><tr>
+CLIENT -> SERVER: <td valign="top" style="padding: 0; border-radius: 6px;">
+CLIENT -> SERVER: 									<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr>
+CLIENT -> SERVER: <td colspan="2" valign="middle" id="credit" style='border-radius: 6px; border: 0; color: #8a8a8a; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 12px; line-height: 150%; text-align: center; padding: 24px 0;'>
+CLIENT -> SERVER: 												<p style="margin: 0 0 16px;">El Escenario — Built with <a href="https://woocommerce.com" style="color: #96588a; font-weight: normal; text-decoration: underline;">WooCommerce</a></p>
+CLIENT -> SERVER: 											</td>
+CLIENT -> SERVER: 										</tr></table>
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 							</tr></table>
+CLIENT -> SERVER: <!-- End Footer -->
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 				</tr>
+CLIENT -> SERVER: </table>
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 	</body>
+CLIENT -> SERVER: </html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO academiaelescenario.com
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BhY2FkZW1pYWVsZXNjZW5hcmlvLmNvbQ==
+CLIENT -> SERVER: QDRjNGQzbTE0Kg==
+CLIENT -> SERVER: MAIL FROM:<info@academiaelescenario.com>
+CLIENT -> SERVER: RCPT TO:<jsebastianmontesj@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Sat, 11 Jul 2020 04:35:45 +0000
+CLIENT -> SERVER: To: jsebastianmontesj@gmail.com
+CLIENT -> SERVER: From: El Escenario <info@academiaelescenario.com>
+CLIENT -> SERVER: Reply-To: El Escenario <info@academiaelescenario.com>
+CLIENT -> SERVER: Subject: =?UTF-8?Q?=C2=A1Hemos_recibido_tu_pedido_en_El_Escenario!?=
+CLIENT -> SERVER: Message-ID: <49fd09879249101bf85202cbe32a6cb7@academiaelescenario.com>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <!DOCTYPE html>
+CLIENT -> SERVER: <html lang="es" id="arve">
+CLIENT -> SERVER: <head>
+CLIENT -> SERVER: <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+CLIENT -> SERVER: <title>El Escenario</title>
+CLIENT -> SERVER: </head>
+CLIENT -> SERVER: <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="padding: 0;">
+CLIENT -> SERVER: 		<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+CLIENT -> SERVER: 			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <td align="center" valign="top">
+CLIENT -> SERVER: 						<div id="template_header_image">
+CLIENT -> SERVER: 													</div>
+CLIENT -> SERVER: 						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1); border-radius: 3px;">
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <td align="center" valign="top">
+CLIENT -> SERVER: 									<!-- Header -->
+CLIENT -> SERVER: 									<table border="0" cellpadding="0" cellspacing="0" width="100%" id="template_header" style='background-color: #96588a; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'><tr>
+CLIENT -> SERVER: <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+CLIENT -> SERVER: 												<h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; color: #ffffff;'>Gracias por tu pedido</h1>
+CLIENT -> SERVER: 											</td>
+CLIENT -> SERVER: 										</tr></table>
+CLIENT -> SERVER: <!-- End Header -->
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 							</tr>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <td align="center" valign="top">
+CLIENT -> SERVER: 									<!-- Body -->
+CLIENT -> SERVER: 									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body"><tr>
+CLIENT -> SERVER: <td valign="top" id="body_content" style="background-color: #ffffff;">
+CLIENT -> SERVER: 												<!-- Content -->
+CLIENT -> SERVER: 												<table border="0" cellpadding="20" cellspacing="0" width="100%"><tr>
+CLIENT -> SERVER: <td valign="top" style="padding: 48px 48px 32px;">
+CLIENT -> SERVER: 															<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <p style="margin: 0 0 16px;">Hola Sebastian,</p>
+CLIENT -> SERVER: <p style="margin: 0 0 16px;">Gracias por tu pedido. Está en espera hasta que confirmemos que se ha recibido el pago. Mientras tanto, aquí tienes un recordatorio de lo que has pedido:</p>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>
+CLIENT -> SERVER: 	[Pedido #926] (julio 11, 2020)</h2>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="margin-bottom: 40px;">
+CLIENT -> SERVER: 	<table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+CLIENT -> SERVER: <thead><tr>
+CLIENT -> SERVER: <th class="td" scope="col" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Producto</th>
+CLIENT -> SERVER: 				<th class="td" scope="col" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Cantidad</th>
+CLIENT -> SERVER: 				<th class="td" scope="col" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Precio</th>
+CLIENT -> SERVER: 			</tr></thead>
+CLIENT -> SERVER: <tbody><tr class="order_item">
+CLIENT -> SERVER: <td class="td" style="color: #636363; border: 1px solid #e5e5e5; padding: 12px; text-align: left; vertical-align: middle; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; word-wrap: break-word;">
+CLIENT -> SERVER: 		Guitarra		</td>
+CLIENT -> SERVER: 		<td class="td" style="color: #636363; border: 1px solid #e5e5e5; padding: 12px; text-align: left; vertical-align: middle; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+CLIENT -> SERVER: 			2		</td>
+CLIENT -> SERVER: 		<td class="td" style="color: #636363; border: 1px solid #e5e5e5; padding: 12px; text-align: left; vertical-align: middle; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+CLIENT -> SERVER: 			<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>2.00</span>		</td>
+CLIENT -> SERVER: 	</tr></tbody>
+CLIENT -> SERVER: <tfoot>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <th class="td" scope="row" colspan="2" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left; border-top-width: 4px;">Subtotal:</th>
+CLIENT -> SERVER: 						<td class="td" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left; border-top-width: 4px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>2.00</span></td>
+CLIENT -> SERVER: 					</tr>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <th class="td" scope="row" colspan="2" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Envío:</th>
+CLIENT -> SERVER: 						<td class="td" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Envío gratuito</td>
+CLIENT -> SERVER: 					</tr>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <th class="td" scope="row" colspan="2" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Método de pago:</th>
+CLIENT -> SERVER: 						<td class="td" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Transferencia bancaria directa</td>
+CLIENT -> SERVER: 					</tr>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <th class="td" scope="row" colspan="2" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Total:</th>
+CLIENT -> SERVER: 						<td class="td" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>2.00</span></td>
+CLIENT -> SERVER: 					</tr>
+CLIENT -> SERVER: </tfoot>
+CLIENT -> SERVER: </table>
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <table id="addresses" cellspacing="0" cellpadding="0" border="0" style="width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;"><tr>
+CLIENT -> SERVER: <td valign="top" width="50%" style="text-align: left; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; border: 0; padding: 0;">
+CLIENT -> SERVER: 			<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Dirección de facturación</h2>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			<address class="address" style="padding: 12px; color: #636363; border: 1px solid #e5e5e5;">
+CLIENT -> SERVER: 				Sebastian Montes<br>Calle 94 # 4 a 58 sur<br>Bogotá<br>Usme									<br><a href="tel:3166160301" style="color: #96588a; font-weight: normal; text-decoration: underline;">3166160301</a>													<br>jsebastianmontesj@gmail.com							</address>
+CLIENT -> SERVER: 		</td>
+CLIENT -> SERVER: 					<td valign="top" width="50%" style="text-align: left; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; padding: 0;">
+CLIENT -> SERVER: 				<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Dirección de envío</h2>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<address class="address" style="padding: 12px; color: #636363; border: 1px solid #e5e5e5;">Sebastian Montes<br>Calle 94 # 4 a 58 sur<br>Bogotá<br>Usme</address>
+CLIENT -> SERVER: 			</td>
+CLIENT -> SERVER: 			</tr></table>
+CLIENT -> SERVER: <p style="margin: 0 0 16px;">Esperamos poder cumplir pronto tu pedido.</p>
+CLIENT -> SERVER: 															</div>
+CLIENT -> SERVER: 														</td>
+CLIENT -> SERVER: 													</tr></table>
+CLIENT -> SERVER: <!-- End Content -->
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 										</tr></table>
+CLIENT -> SERVER: <!-- End Body -->
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 							</tr>
+CLIENT -> SERVER: </table>
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 				</tr>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <td align="center" valign="top">
+CLIENT -> SERVER: 						<!-- Footer -->
+CLIENT -> SERVER: 						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer"><tr>
+CLIENT -> SERVER: <td valign="top" style="padding: 0; border-radius: 6px;">
+CLIENT -> SERVER: 									<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr>
+CLIENT -> SERVER: <td colspan="2" valign="middle" id="credit" style='border-radius: 6px; border: 0; color: #8a8a8a; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 12px; line-height: 150%; text-align: center; padding: 24px 0;'>
+CLIENT -> SERVER: 												<p style="margin: 0 0 16px;">El Escenario — Built with <a href="https://woocommerce.com" style="color: #96588a; font-weight: normal; text-decoration: underline;">WooCommerce</a></p>
+CLIENT -> SERVER: 											</td>
+CLIENT -> SERVER: 										</tr></table>
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 							</tr></table>
+CLIENT -> SERVER: <!-- End Footer -->
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 				</tr>
+CLIENT -> SERVER: </table>
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 	</body>
+CLIENT -> SERVER: </html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO academiaelescenario.com
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BhY2FkZW1pYWVsZXNjZW5hcmlvLmNvbQ==
+CLIENT -> SERVER: QDRjNGQzbTE0Kg==
+CLIENT -> SERVER: MAIL FROM:<info@academiaelescenario.com>
+CLIENT -> SERVER: RCPT TO:<jsebastianmontesj@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Sat, 11 Jul 2020 19:43:55 +0000
+CLIENT -> SERVER: To: jsebastianmontesj@gmail.com
+CLIENT -> SERVER: From: El Escenario <info@academiaelescenario.com>
+CLIENT -> SERVER: Reply-To: El Escenario <info@academiaelescenario.com>
+CLIENT -> SERVER: Subject: =?UTF-8?Q?Tu_=C3=BAltimo_recibo_en_El_Escenario?=
+CLIENT -> SERVER: Message-ID: <aeb2a1936c00bf09481eecc716ebd1be@academiaelescenario.com>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <!DOCTYPE html>
+CLIENT -> SERVER: <html lang="es" id="arve">
+CLIENT -> SERVER: <head>
+CLIENT -> SERVER: <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+CLIENT -> SERVER: <title>El Escenario</title>
+CLIENT -> SERVER: </head>
+CLIENT -> SERVER: <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="padding: 0;">
+CLIENT -> SERVER: 		<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+CLIENT -> SERVER: 			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <td align="center" valign="top">
+CLIENT -> SERVER: 						<div id="template_header_image">
+CLIENT -> SERVER: 													</div>
+CLIENT -> SERVER: 						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1); border-radius: 3px;">
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <td align="center" valign="top">
+CLIENT -> SERVER: 									<!-- Header -->
+CLIENT -> SERVER: 									<table border="0" cellpadding="0" cellspacing="0" width="100%" id="template_header" style='background-color: #96588a; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'><tr>
+CLIENT -> SERVER: <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+CLIENT -> SERVER: 												<h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #ab79a1; color: #ffffff;'>Tu recibo del pedido #926</h1>
+CLIENT -> SERVER: 											</td>
+CLIENT -> SERVER: 										</tr></table>
+CLIENT -> SERVER: <!-- End Header -->
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 							</tr>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <td align="center" valign="top">
+CLIENT -> SERVER: 									<!-- Body -->
+CLIENT -> SERVER: 									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body"><tr>
+CLIENT -> SERVER: <td valign="top" id="body_content" style="background-color: #ffffff;">
+CLIENT -> SERVER: 												<!-- Content -->
+CLIENT -> SERVER: 												<table border="0" cellpadding="20" cellspacing="0" width="100%"><tr>
+CLIENT -> SERVER: <td valign="top" style="padding: 48px 48px 32px;">
+CLIENT -> SERVER: 															<div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <p style="margin: 0 0 16px;">Hola Sebastian,</p>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 	<p style="margin: 0 0 16px;">
+CLIENT -> SERVER: 	Aquí tienes los detalles de tu pedido realizado el julio 11, 2020:	</p>
+CLIENT -> SERVER: 	
+CLIENT -> SERVER: <h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>
+CLIENT -> SERVER: 	[Pedido #926] (julio 11, 2020)</h2>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="margin-bottom: 40px;">
+CLIENT -> SERVER: 	<table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+CLIENT -> SERVER: <thead><tr>
+CLIENT -> SERVER: <th class="td" scope="col" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Producto</th>
+CLIENT -> SERVER: 				<th class="td" scope="col" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Cantidad</th>
+CLIENT -> SERVER: 				<th class="td" scope="col" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Precio</th>
+CLIENT -> SERVER: 			</tr></thead>
+CLIENT -> SERVER: <tbody><tr class="order_item">
+CLIENT -> SERVER: <td class="td" style="color: #636363; border: 1px solid #e5e5e5; padding: 12px; text-align: left; vertical-align: middle; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; word-wrap: break-word;">
+CLIENT -> SERVER: 		Guitarra		</td>
+CLIENT -> SERVER: 		<td class="td" style="color: #636363; border: 1px solid #e5e5e5; padding: 12px; text-align: left; vertical-align: middle; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+CLIENT -> SERVER: 			2		</td>
+CLIENT -> SERVER: 		<td class="td" style="color: #636363; border: 1px solid #e5e5e5; padding: 12px; text-align: left; vertical-align: middle; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+CLIENT -> SERVER: 			<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>2.00</span>		</td>
+CLIENT -> SERVER: 	</tr></tbody>
+CLIENT -> SERVER: <tfoot>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <th class="td" scope="row" colspan="2" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left; border-top-width: 4px;">Subtotal:</th>
+CLIENT -> SERVER: 						<td class="td" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left; border-top-width: 4px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>2.00</span></td>
+CLIENT -> SERVER: 					</tr>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <th class="td" scope="row" colspan="2" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Envío:</th>
+CLIENT -> SERVER: 						<td class="td" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Envío gratuito</td>
+CLIENT -> SERVER: 					</tr>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <th class="td" scope="row" colspan="2" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Método de pago:</th>
+CLIENT -> SERVER: 						<td class="td" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Transferencia bancaria directa</td>
+CLIENT -> SERVER: 					</tr>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <th class="td" scope="row" colspan="2" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Total:</th>
+CLIENT -> SERVER: 						<td class="td" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>2.00</span></td>
+CLIENT -> SERVER: 					</tr>
+CLIENT -> SERVER: </tfoot>
+CLIENT -> SERVER: </table>
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <table id="addresses" cellspacing="0" cellpadding="0" border="0" style="width: 100%; vertical-align: top; margin-bottom: 40px; padding: 0;"><tr>
+CLIENT -> SERVER: <td valign="top" width="50%" style="text-align: left; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; border: 0; padding: 0;">
+CLIENT -> SERVER: 			<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Dirección de facturación</h2>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 			<address class="address" style="padding: 12px; color: #636363; border: 1px solid #e5e5e5;">
+CLIENT -> SERVER: 				Sebastian Montes<br>Calle 94 # 4 a 58 sur<br>Bogotá<br>Usme									<br><a href="tel:3166160301" style="color: #96588a; font-weight: normal; text-decoration: underline;">3166160301</a>													<br>jsebastianmontesj@gmail.com							</address>
+CLIENT -> SERVER: 		</td>
+CLIENT -> SERVER: 					<td valign="top" width="50%" style="text-align: left; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; padding: 0;">
+CLIENT -> SERVER: 				<h2 style='color: #96588a; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Dirección de envío</h2>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: 				<address class="address" style="padding: 12px; color: #636363; border: 1px solid #e5e5e5;">Sebastian Montes<br>Calle 94 # 4 a 58 sur<br>Bogotá<br>Usme</address>
+CLIENT -> SERVER: 			</td>
+CLIENT -> SERVER: 			</tr></table>
+CLIENT -> SERVER: <p style="margin: 0 0 16px;">¡Gracias por usar academiaelescenario.com!</p>
+CLIENT -> SERVER: 															</div>
+CLIENT -> SERVER: 														</td>
+CLIENT -> SERVER: 													</tr></table>
+CLIENT -> SERVER: <!-- End Content -->
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 										</tr></table>
+CLIENT -> SERVER: <!-- End Body -->
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 							</tr>
+CLIENT -> SERVER: </table>
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 				</tr>
+CLIENT -> SERVER: <tr>
+CLIENT -> SERVER: <td align="center" valign="top">
+CLIENT -> SERVER: 						<!-- Footer -->
+CLIENT -> SERVER: 						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer"><tr>
+CLIENT -> SERVER: <td valign="top" style="padding: 0; border-radius: 6px;">
+CLIENT -> SERVER: 									<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr>
+CLIENT -> SERVER: <td colspan="2" valign="middle" id="credit" style='border-radius: 6px; border: 0; color: #8a8a8a; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 12px; line-height: 150%; text-align: center; padding: 24px 0;'>
+CLIENT -> SERVER: 												<p style="margin: 0 0 16px;">El Escenario — Built with <a href="https://woocommerce.com" style="color: #96588a; font-weight: normal; text-decoration: underline;">WooCommerce</a></p>
+CLIENT -> SERVER: 											</td>
+CLIENT -> SERVER: 										</tr></table>
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 							</tr></table>
+CLIENT -> SERVER: <!-- End Footer -->
+CLIENT -> SERVER: </td>
+CLIENT -> SERVER: 				</tr>
+CLIENT -> SERVER: </table>
+CLIENT -> SERVER: </div>
+CLIENT -> SERVER: 	</body>
+CLIENT -> SERVER: </html>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
